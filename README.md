@@ -1,3 +1,4 @@
+```
 CHECK_HTTP_CURL(1)           Nagios Plugins Manual          CHECK_HTTP_CURL(1)
 
 NAME
@@ -84,3 +85,4 @@ AUTHOR
        Written by Nitatemic, Gemini & Claude AI.
 
 v3.0                             November 2025              CHECK_HTTP_CURL(1)
+```

@@ -2,7 +2,7 @@
 #
 # check_http_curl.sh
 #
-# Version: 3.0
+# Version: 3.1
 # Author: Nitatemic
 # Review: Gemini & Claude AI collaboration
 #
